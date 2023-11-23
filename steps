@@ -1,0 +1,15 @@
+# dockerise an application
+install django - pip install django
+install python
+install docker
+install pip
+
+# # virtual env
+# pip install virtualenv
+# virtualenv venv 
+
+# # source env
+# source venv/bin/activate
+
+--------
+pip freeze -l > requirements.txt
